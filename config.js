@@ -1,8 +1,8 @@
 var config = {
     // style: 'mapbox://styles/katospiegel/clp4fj4ea002q01r175vpabbz/draft',
     // style: 'mapbox://styles/mapbox/satellite-streets-v12',
-    style: 'mapbox://styles/katospiegel/clp4lrzvv01kb01pr3xmvcyif/draft',
-    accessToken: 'pk.eyJ1Ijoia2F0b3NwaWVnZWwiLCJhIjoiY2xwNDM5bHdiMTk4cjJqczRxejIzenVjaiJ9._OP0BDAJatBP3lYA0ClU9w',
+    style: 'mapbox://styles/katospiegel/clp4lrzvv01kb01pr3xmvcyif',
+    accessToken: 'pk.eyJ1Ijoia2F0b3NwaWVnZWwiLCJhIjoiY2t1emk3d2NuMDd5bjJvbHBsZnRiOTFpZCJ9.Q8Tdt1odFkWNpcIZBAQ9Ag',
     showMarkers: false,
     markerColor: '#3FB1CE',
     //projection: 'equirectangular',
